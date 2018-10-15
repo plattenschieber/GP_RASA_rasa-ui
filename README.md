@@ -1,5 +1,8 @@
 [![Docker Automated build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/paschmann/rasa-ui/)
 
+# Dieses Project wurde nicht von uns erstellt und diente nur zu test Zwecken.
+Im Rahmen des Projekts wurde bisher nicht entschieden, ob eine Verwendung nötig ist. Deshalb wurde an diesem Projekt nicht weiter gearbeitet.
+
 # Rasa UI
 
 Rasa UI is a web application built on top of, and for, [Rasa NLU](https://github.com/RasaHQ/rasa_nlu). Rasa UI provides a web application to quickly and easily be able to create agents, define intents and entities. It also provides some convenience features for Rasa NLU, like training your models, monitoring usage or viewing logs. Our goal is to replace api.ai/Dialogflow with Rasa, so a lot of the terminology and usage concepts are similar.
