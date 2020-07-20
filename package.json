@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "description": "Rasa UI is a web application built on top of, and for, Rasa NLU.",
   "dependencies": {
-    "angular": "1.7.2",
+    "angular": "1.8.0",
     "angular-chart.js": "^1.1.1",
     "angular-cookies": "1.7.2",
     "angular-resource": "1.7.2",
